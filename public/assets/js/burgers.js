@@ -34,7 +34,7 @@ $(function() {
     };
 
     // Send the POST request.
-    $.ajax("/api/burgers/", {
+    $.ajax("/", {
       type: "POST",
       data: newBurger
     }).then(
