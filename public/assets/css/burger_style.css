@@ -17,8 +17,8 @@ body {
 li {
   margin: 5px;
   list-style-type: none;
-  font-size:10px;
-}
+/*  font-size:10px;
+*/}
 
 .form-group, form {
 	border-readius:;
