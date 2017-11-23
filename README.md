@@ -2,12 +2,14 @@
 
 :hamburger::hamburger::hamburger::hamburger::hamburger::hamburger::hamburger::hamburger::hamburger: 
 
-[Check it Out! Heroku](https://eat-da-burger-ryn.herokuapp.com/)
+[Check it out ~ Heroku](https://eat-da-burger-ryn.herokuapp.com/)
+
 ### Purpose
 
 To create a _burger logger_ using MySQL, Node, Express, Handlebars and a homemade ORM (yum!). 
 
 - _Uses Node and MySQL to query and route data in the app, and Handlebars to generate HTML._
+
 
 
 ### Overview
@@ -20,11 +22,12 @@ To create a _burger logger_ using MySQL, Node, Express, Handlebars and a homemad
 
 * The app stores every burger in a MySQL database, whether devoured or not.
 
-* ![alt text](Burger/eat-da-burg.png).
+![alt text](https://github.com/rescarra/Burger/blob/master/eat-da-burg.png?raw=true).
+_The burger names listed in the screenshot demo are from Bob's Burgers :clap:_
 
 
 
-#### Directory structure
+### Directory structure
 
 All the recommended files and directories adhere to the following structure:
 
