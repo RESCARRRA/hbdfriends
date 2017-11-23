@@ -20,7 +20,7 @@ To create a _burger logger_ using MySQL, Node, Express, Handlebars and a homemad
 
 * The app stores every burger in a MySQL database, whether devoured or not.
 
-* [Demo](https://github.com/rescarra/Burger/eat-da-burg.png).
+* ![alt text](Burger/eat-da-burg.png).
 
 
 
