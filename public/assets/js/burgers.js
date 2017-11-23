@@ -18,7 +18,7 @@ $(function() {
         // Reload the page to get the updated list
         location.reload();
       }
-    );
+    ); 
   });
 
   $("#add-burg").on("submit", function(event) {
@@ -39,7 +39,7 @@ $(function() {
       function() {
         console.log("created new burger");
         // Reload the page to get the updated list
-        window.location.reload();
+        location.reload("/");
       }
     );
   });
